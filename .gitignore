@@ -1,0 +1,13 @@
+*/target/*
+*.settings
+/bin
+/build
+.cache-main
+.DS_Store
+.classpath
+.project
+*/*.properties
+.gradle
+/main
+/metastore_db
+/gradle
